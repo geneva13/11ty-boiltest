@@ -1,17 +1,17 @@
 body {
     font-family: Helvetica, sans-serif;
-    color: #d16221;
+    color: #643500;
     background: #c06224;
     padding: 0 40px;
     text-align: center;
-    background:url(../images/planet.png)
+    background:url(../images/marsbackround.jpeg)
 }
 
 nav {
-    margin: 40px auto 0 auto;
-    width: 370px;
-    border-radius: 50px;
-    background: #ff7505;
+    margin: 20px auto 0 auto;
+    width: 300px;
+    border-radius: 40px;
+    background: #b85301;
 }
 
 nav ul {
@@ -29,23 +29,19 @@ nav ul li {
 nav ul li a {
     display: inline-block;
     padding: 20px;
-    color: #EAE8FF;
+    color: #331e06;
     text-decoration: none;
     font-size: 1.2em;
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     letter-spacing: -2px;
 }
 
 h1 strong {
-    background: rgb(34,193,195);
-    background: linear-gradient(45deg, rgb(175, 25, 25) 0%, rgb(255, 208, 0) 100%);
+    background: rgb(99, 0, 0);
+    background: repeating-linear-gradient(45deg, rgb(134, 0, 0) 0%, rgb(119, 77, 0) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
 
-img.about {
-    opacity: 0.9;
-}
