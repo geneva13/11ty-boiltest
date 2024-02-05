@@ -1,16 +1,17 @@
 body {
     font-family: Helvetica, sans-serif;
-    color: #EAE8FF;
-    background: #493f77;
+    color: #d16221;
+    background: #c06224;
     padding: 0 40px;
     text-align: center;
+    background:url(../images/planet.png)
 }
 
 nav {
     margin: 40px auto 0 auto;
     width: 370px;
     border-radius: 50px;
-    background: #31307a;
+    background: #ff7505;
 }
 
 nav ul {
@@ -40,7 +41,7 @@ h1 {
 
 h1 strong {
     background: rgb(34,193,195);
-    background: linear-gradient(45deg, rgb(35, 119, 245) 0%, rgb(190, 93, 255) 100%);
+    background: linear-gradient(45deg, rgb(175, 25, 25) 0%, rgb(255, 208, 0) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
