@@ -8,5 +8,5 @@ title: Home
 
 
 Read about our top blogs here:
-  <li><a href="/" title="Go home">Newest Blog</a></li>
+  <li><a href="/post1.md" title="Post 1">Newest Blog</a></li>
   <li><a href="/" title="Top Blog">Top Blog</a></li>
